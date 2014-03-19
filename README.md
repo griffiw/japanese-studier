@@ -6,12 +6,12 @@ A simple script to help study any language (I personally use it for Japanese, he
 ## How to use
 The script takes a single command line argument, a text file, e.g.
 
-     ./study.rb terms.txt
+     ./study.rb vocab.txt
 
 
  The text file must follow this format:
 
-     "<definition you want to be asked>" = "<appropriate word in whatever language you're studying>"
+     "<definition you want to be asked>" = "<word in whatever language you're studying>"
      ...
 
 ## "Features"
